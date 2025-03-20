@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![kangsh05-bit followers](https://img.shields.io/github/followers/kangsh05-bit?label=Followers&style=social)
+
+
 <!--
 **kangsh05-bit/kangsh05-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
