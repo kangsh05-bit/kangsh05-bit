@@ -3,6 +3,13 @@
 ![kangsh05-bit followers](https://img.shields.io/github/followers/kangsh05-bit?label=Followers&style=social)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmett6401&show_icons=true&theme=radical)
+![image](https://github.com/user-attachments/assets/8e70ff42-294d-45c1-aedd-dca33bf8a767)
 
 
 <!--
